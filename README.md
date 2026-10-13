@@ -1,12 +1,12 @@
-\# Brian E. Allen
+# Brian E. Allen
 
 
 
-\### Systems Engineering | Infrastructure Reliability | Asset Management | Operational Decision Support | Python \& AI
+### Systems Engineering | Infrastructure Reliability | Asset Management | Operational Decision Support | Python \& AI
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -26,7 +26,7 @@ My current focus is applying Systems Engineering principles, data analysis, Pyth
 
 
 
-\## Systems Engineering Approach
+## Systems Engineering Approach
 
 
 
@@ -38,17 +38,17 @@ My approach emphasizes:
 
 
 
-\- \*\*System Definition:\*\* Establishing system boundaries, stakeholder needs, requirements, and operational constraints.
+- **System Definition:** Establishing system boundaries, stakeholder needs, requirements, and operational constraints.
 
-\- \*\*Lifecycle Thinking:\*\* Evaluating performance, reliability, maintainability, and asset condition throughout the system lifecycle.
+- **Lifecycle Thinking:** Evaluating performance, reliability, maintainability, and asset condition throughout the system lifecycle.
 
-\- \*\*Technical Reviews:\*\* Examining engineering evidence, system performance, risks, and readiness before major decisions.
+- **Technical Reviews:** Examining engineering evidence, system performance, risks, and readiness before major decisions.
 
-\- \*\*Decision Management:\*\* Comparing alternatives through documented criteria, trade-offs, and risk-informed analysis.
+- **Decision Management:** Comparing alternatives through documented criteria, trade-offs, and risk-informed analysis.
 
-\- \*\*Verification and Validation:\*\* Confirming that implemented solutions meet defined requirements and operational needs.
+- **Verification and Validation:** Confirming that implemented solutions meet defined requirements and operational needs.
 
-\- \*\*Continuous Improvement:\*\* Using operational evidence and lessons learned to improve system performance and future decisions.
+- **Continuous Improvement:** Using operational evidence and lessons learned to improve system performance and future decisions.
 
 
 
@@ -56,53 +56,53 @@ I am continuing to develop these capabilities through the INCOSE Systems Enginee
 
 
 
-\## Technical Focus
+## Technical Focus
 
 
 
-\*\*Infrastructure Reliability and Asset Management\*\*
+**Infrastructure Reliability and Asset Management**
 
-\- Infrastructure condition and performance analysis
+- Infrastructure condition and performance analysis
 
-\- Maintenance and reliability evaluation
+- Maintenance and reliability evaluation
 
-\- Asset lifecycle planning
+- Asset lifecycle planning
 
-\- Risk and consequence assessment
+- Risk and consequence assessment
 
-\- Repair, replacement, and investment analysis
-
-
-
-\*\*Systems Engineering and Decision Support\*\*
-
-\- Stakeholder needs and requirements analysis
-
-\- System boundaries and interfaces
-
-\- Engineering trade studies
-
-\- Technical reviews and decision management
-
-\- Operational risk and uncertainty analysis
+- Repair, replacement, and investment analysis
 
 
 
-\*\*Python, Data Analytics, and AI\*\*
+**Systems Engineering and Decision Support**
 
-\- Python-based engineering calculations
+- Stakeholder needs and requirements analysis
 
-\- Data processing and visualization
+- System boundaries and interfaces
 
-\- Maintenance and asset performance analytics
+- Engineering trade studies
 
-\- Workflow automation
+- Technical reviews and decision management
 
-\- Large language models for information analysis and decision support
+- Operational risk and uncertainty analysis
 
 
 
-\## Portfolio Projects
+**Python, Data Analytics, and AI**
+
+- Python-based engineering calculations
+
+- Data processing and visualization
+
+- Maintenance and asset performance analytics
+
+- Workflow automation
+
+- Large language models for information analysis and decision support
+
+
+
+## Portfolio Projects
 
 
 
@@ -114,17 +114,17 @@ Planned areas of development include:
 
 
 
-\- Infrastructure reliability analytics
+- Infrastructure reliability analytics
 
-\- Asset lifecycle and risk analysis
+- Asset lifecycle and risk analysis
 
-\- Engineering decision-support applications
+- Engineering decision-support applications
 
-\- Maintenance performance dashboards
+- Maintenance performance dashboards
 
-\- Python-based operational automation
+- Python-based operational automation
 
-\- AI-assisted engineering information analysis
+- AI-assisted engineering information analysis
 
 
 
@@ -132,7 +132,7 @@ Projects will use synthetic or appropriately authorized data, with documented as
 
 
 
-\## Professional Direction
+## Professional Direction
 
 
 
@@ -148,9 +148,9 @@ I believe effective engineering requires more than selecting a technical solutio
 
 
 
-\## Connect
+## Connect
 
 
 
-\[LinkedIn](https://www.linkedin.com/in/brian-eric-allen-7448a591/) | \[GitHub](https://github.com/brian-e-allen-se)
+[LinkedIn](https://www.linkedin.com/in/brian-eric-allen-7448a591/) | [GitHub](https://github.com/brian-e-allen-se)
 
