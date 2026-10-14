@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 255" role="img" aria-label="Define, analyze, decide, verify and learn workflow">
+<rect width="1100" height="255" rx="14" fill="#0B1B30"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#173652" stroke="#5BA8CD" stroke-width="2"><rect x="38" y="45" width="300" height="95" rx="9"/><rect x="400" y="45" width="300" height="95" rx="9"/><rect x="762" y="45" width="300" height="95" rx="9"/></g>
+<g fill="#FFFFFF" font-size="22" font-weight="bold"><text x="188" y="85">DEFINE</text><text x="550" y="85">ANALYZE</text><text x="912" y="85">DECIDE</text></g>
+<g fill="#B7D7E9" font-size="16"><text x="188" y="112">Needs · Boundaries</text><text x="550" y="112">Evidence · Alternatives</text><text x="912" y="112">Criteria · Risk</text></g>
+<g stroke="#5BC6E4" stroke-width="3" fill="none"><path d="M340 92h56m-12-8 12 8-12 8M702 92h56m-12-8 12 8-12 8"/><path d="M912 141v35H550v14"/><path d="M544 182l6 8 6-8"/></g>
+<rect x="397" y="190" width="306" height="48" rx="8" fill="#11505B" stroke="#5BC6D2" stroke-width="2"/>
+<text x="550" y="220" fill="#FFFFFF" font-size="19" font-weight="bold">VERIFY &amp; LEARN</text>
+<path d="M397 214H188V142" fill="none" stroke="#5BC6D2" stroke-width="2" stroke-dasharray="7 6"/><path d="M181 150l7-8 7 8" fill="none" stroke="#5BC6D2" stroke-width="2"/>
+</g></svg>

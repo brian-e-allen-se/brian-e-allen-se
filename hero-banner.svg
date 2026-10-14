@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Brian E. Allen engineering portfolio banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09172A"/><stop offset="1" stop-color="#153C59"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#4B7894" stroke-opacity=".18"/></pattern></defs>
+<rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<g stroke="#4EC1DE" stroke-width="2" fill="none" opacity=".45"><path d="M720 260l110-70 105 37 126-104 94 45"/><path d="M710 125l125 40 115-85 125 32 95-55"/><path d="M830 190v-25m105 62 15-147m111 43 14-11"/></g>
+<g fill="#4EC1DE"><circle cx="830" cy="190" r="6"/><circle cx="935" cy="227" r="6"/><circle cx="1061" cy="123" r="6"/><circle cx="950" cy="80" r="5"/><circle cx="1075" cy="112" r="5"/></g>
+<g stroke="#6E9CB3" fill="none" opacity=".35"><rect x="750" y="236" width="82" height="66"/><rect x="847" y="209" width="86" height="93"/><rect x="950" y="250" width="88" height="52"/><path d="M735 302h382M775 236v-33h35v33m60-27v-46h39v46m65 41v-26h40v26"/></g>
+<text x="62" y="66" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4" fill="#75D0E8">ENGINEERING PORTFOLIO</text>
+<text x="60" y="151" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">BRIAN E. ALLEN</text>
+<rect x="62" y="175" width="82" height="4" fill="#49BEDB"/>
+<text x="62" y="222" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#D9ECF4">Systems Thinking. Engineering Evidence.</text>
+<text x="62" y="256" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#D9ECF4">Better Decisions.</text>
+<text x="62" y="309" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.2" fill="#A3C6D8">INFRASTRUCTURE  /  RELIABILITY  /  ANALYTICS</text>
+</svg>
